@@ -1,0 +1,18 @@
+services:
+  k6-functional:
+    image: grafana/k6:latest
+    working_dir: /app
+    environment:
+      - API_KEY=${API_KEY}
+    volumes:
+      - .:/app
+    entrypoint: ["k6", "run", "/app/tests/functional/functional_test.js"]
+
+  k6-performance:
+    image: grafana/k6:latest
+    working_dir: /app
+    environment:
+      - API_KEY=${API_KEY}
+    volumes:
+      - .:/app
+    entrypoint: ["k6", "run", "/app/tests/performance/load_test.js"]

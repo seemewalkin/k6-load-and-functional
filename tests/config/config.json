@@ -1,0 +1,6 @@
+{
+  "base_url": "https://www.alphavantage.co/query",
+  "endpoints": {
+    "global_quote": "GLOBAL_QUOTE"
+  }
+}
