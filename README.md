@@ -20,8 +20,8 @@ Manual test cases for the AlphaVantage API can be found [here](./AlphaVantage_Gl
 
 1. Clone the repository:
     ```bash
-    git clone <https://github.com/seemewalkin/payrails-take-home>
-    cd <https://github.com/seemewalkin/payrails-take-home>
+    git clone https://github.com/seemewalkin/payrails-take-home
+    cd https://github.com/seemewalkin/payrails-take-home
     ```
 
 2. Set up environment variables:
