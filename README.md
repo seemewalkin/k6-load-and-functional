@@ -1,8 +1,5 @@
 # AlphaVantage API Testing
 
-![GitHub Actions](https:/github.com/seemewalkin/payrails-take-home/actions/workflows/ci.yml/badge.svg)
-
-
 [Results of CI runs](https://github.com/seemewalkin/payrails-take-home/actions)
 
 
@@ -51,11 +48,11 @@ To run functional tests:
 docker-compose up k6-functional
 ```
 
-### Load Tests
+### Performance Tests
 
-To run load tests:
+To run performance tests:
 ```bash
-docker-compose up k6-load
+docker-compose up k6-performance
 ```
 
 ## Decision Making
