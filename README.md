@@ -1,6 +1,7 @@
 # AlphaVantage API Testing
 
 ![GitHub Actions](https:/github.com/seemewalkin/payrails-take-home/actions/workflows/ci.yml/badge.svg)
+
 [Results of CI runs](https://github.com/seemewalkin/payrails-take-home/actions)
 
 
