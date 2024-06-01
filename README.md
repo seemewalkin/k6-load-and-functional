@@ -2,6 +2,7 @@
 
 ![GitHub Actions](https:/github.com/seemewalkin/payrails-take-home/actions/workflows/ci.yml/badge.svg)
 
+
 [Results of CI runs](https://github.com/seemewalkin/payrails-take-home/actions)
 
 
@@ -36,7 +37,7 @@ Manual test cases for the AlphaVantage API can be found [here](./AlphaVantage_Gl
     {
       "base_url": "https://www.alphavantage.co/query",
       "endpoints": {
-        "time_series_daily": "TIME_SERIES_DAILY",
+        "global_quote": "GLOBAL_QUOTE",
       }
     }
     ```
