@@ -1,5 +1,9 @@
 # AlphaVantage API Testing
 
+![GitHub Actions](https:/github.com/seemewalkin/payrails-take-home/actions/workflows/ci.yml/badge.svg)
+[Results of CI runs](https://github.com/seemewalkin/payrails-take-home/actions)
+
+
 ## Description
 This project is designed to test the AlphaVantage API's `GlobalQuote` function, which retrieves real-time price information about a specific stock symbol. Manual tests cover some positive, negative, and boundary test cases. There is also performance test for `GlobalQuote` function as well.
 
@@ -15,8 +19,8 @@ Manual test cases for the AlphaVantage API can be found [here](./AlphaVantage_Gl
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone <https://github.com/seemewalkin/payrails-take-home>
+    cd <https://github.com/seemewalkin/payrails-take-home>
     ```
 
 2. Set up environment variables:
