@@ -1,7 +1,5 @@
 # AlphaVantage API Testing
 
-![GitHub Actions](https://github.com/seemewalkin/k6-load-and-functional/actions/workflows/playwright.yml/badge.svg)
-
 [Results of CI runs](https://github.com/seemewalkin/k6-load-and-functional/actions)
 
 
@@ -20,8 +18,8 @@ Manual test cases for the AlphaVantage API can be found [here](./AlphaVantage_Gl
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/seemewalkin/payrails-take-home
-    cd https://github.com/seemewalkin/payrails-take-home
+    git clone https://github.com/seemewalkin/k6-load-and-functional
+    cd https://github.com/seemewalkin/k6-load-and-functional
     ```
 
 2. Set up environment variables:
