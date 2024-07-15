@@ -1,6 +1,6 @@
 # AlphaVantage API Testing
 
-[Results of CI runs](https://github.com/seemewalkin/payrails-take-home/actions)
+[Results of CI runs](https://github.com/seemewalkin/k6-load-and-functional/actions)
 
 
 ## Description
