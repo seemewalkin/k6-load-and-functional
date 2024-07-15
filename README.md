@@ -1,5 +1,7 @@
 # AlphaVantage API Testing
 
+![GitHub Actions](https://github.com/seemewalkin/k6-load-and-functional/actions/workflows/playwright.yml/badge.svg)
+
 [Results of CI runs](https://github.com/seemewalkin/k6-load-and-functional/actions)
 
 
